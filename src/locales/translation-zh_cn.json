@@ -1,354 +1,354 @@
 {
   "SIDsFilter": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "SID 过滤器",
+    "description": "SID 过滤器"
   },
   "accessRestricted": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "访问此页面仅供授权帐户用户的第三方 IDP 令牌使用。",
+    "description": "访问此页面仅供授权帐户用户的第三方 IDP 令牌使用。"
   },
   "accountNumber": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "帐号：",
+    "description": "帐号："
   },
   "activationDescription": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "红帽将在 1 个工作日内与您联系，以确认您的订阅权益已准备好激活。",
+    "description": "红帽将在 1 个工作日内与您联系，以确认您的订阅权益已准备好激活。"
   },
   "activationTitle": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "感谢您提交激活请求",
+    "description": "感谢您提交激活请求"
   },
   "afterBetaUse": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "使用 Beta 版功能后，您将一直处于 Beta 环境，直到您手动退出 Beta 版。单击顶部工具栏中的设置（齿轮）图标或测试版图标，随时离开测试版环境。",
+    "description": "使用 Beta 版功能后，您将一直处于 Beta 环境，直到您手动退出 Beta 版。单击顶部工具栏中的设置（齿轮）图标或测试版图标，随时离开测试版环境。"
   },
   "apiDocumentation": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "API文档",
+    "description": "API文档"
   },
   "authFailure": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "授权失败",
+    "description": "授权失败"
   },
   "betaRelease": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "测试版",
+    "description": "测试版"
   },
   "cancel": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "取消",
+    "description": "取消"
   },
   "changesComing": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "cloud.redhat.com 将于 7 月 29 日发生变化。",
+    "description": "cloud.redhat.com 将于 7 月 29 日发生变化。"
   },
   "checkOur": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "或查看我们的",
+    "description": "或查看我们的"
   },
   "clearFilters": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "清除过滤器",
+    "description": "清除过滤器"
   },
   "close": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "关",
+    "description": "关"
   },
   "demoMode": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "演示模式",
+    "description": "演示模式"
   },
   "describeBug": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "描述你遇到的错误。对于紧急问题，请打开支持案例。",
+    "description": "描述你遇到的错误。对于紧急问题，请打开支持案例。"
   },
   "email": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "电子邮件",
+    "description": "电子邮件"
   },
   "enterFeedback": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "输入您的反馈",
+    "description": "输入您的反馈"
   },
   "feedback": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "反馈",
+    "description": "反馈"
   },
   "feedbackSent": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "已发送反馈",
+    "description": "已发送反馈"
   },
   "filterResults": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "筛选结果",
+    "description": "筛选结果"
   },
   "filterSAPIDs": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "过滤 SAP ID",
+    "description": "过滤 SAP ID"
   },
   "filterTags": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "过滤标签",
+    "description": "过滤标签"
   },
   "findAppOrService": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "查找应用程序或服务",
+    "description": "查找应用程序或服务"
   },
   "getSupport": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "从 Red Hat 支持获得帮助。",
+    "description": "从 Red Hat 支持获得帮助。"
   },
   "globalFilterNotApplicable": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "全局过滤器不适用于此页面",
+    "description": "全局过滤器不适用于此页面"
   },
   "helpUsImproveHCC": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "帮助我们改进红帽混合云控制台。",
+    "description": "帮助我们改进红帽混合云控制台。"
   },
   "home": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "信息",
+    "description": "家"
   },
   "insightsRhelDocumentation": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "RHEL 文档的见解",
+    "description": "RHEL 文档的见解"
   },
   "internal": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "内部的",
+    "description": "内部的"
   },
   "internalUser": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "内部用户",
+    "description": "内部用户"
   },
   "knownOutages": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "对于已知的中断。",
+    "description": "对于已知的中断。"
   },
   "learnAboutResearchOpportunities": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "了解与我们的用户研究团队分享您的反馈的机会。我们绝不会分享您的个人信息，您可以随时选择退出。",
+    "description": "了解与我们的用户研究团队分享您的反馈的机会。我们绝不会分享您的个人信息，您可以随时选择退出。"
   },
   "learnHowTo": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "通过分步说明和任务了解如何创建、导入和运行应用程序。",
+    "description": "通过分步说明和任务了解如何创建、导入和运行应用程序。"
   },
   "learnMore": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "在我们的博客上了解更多信息。",
+    "description": "在我们的博客上了解更多信息。"
   },
   "learnMoreABoutBeta": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "了解有关 Beta 环境的更多信息",
+    "description": "了解有关 Beta 环境的更多信息"
   },
   "loggedOut": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "您已成功登出。",
+    "description": "您已成功登出。"
   },
   "login": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "登录",
+    "description": "登录"
   },
   "logout": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "登出",
+    "description": "登出"
   },
   "myProfile": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "我的简历",
+    "description": "我的简历"
   },
   "myUserAccess": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "MyUserAccess",
+    "description": "我的用户访问"
   },
   "name": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "姓名",
+    "description": "姓名"
   },
   "newRequestReview": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "您有一个新的访问请求需要您的审核",
+    "description": "您有一个新的访问请求需要您的审核"
   },
   "noInventoryPermissions": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "您没有执行此操作所需的清单权限",
+    "description": "您没有执行此操作所需的清单权限"
   },
   "noLongerHaveAccess": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "您不再有权访问帐户 {accountId}。",
+    "description": "您不再有权访问帐户 {accountId}。"
   },
   "noMatchingAppsFound": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "找不到匹配的应用程序或服务。",
+    "description": "找不到匹配的应用程序或服务。"
   },
   "noResults": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "没有结果",
+    "description": "没有结果"
   },
   "openSupportCase": {
-    "defaultMessage": "",
-    "description": " "
+    "defaultMessage": "打开支持案例",
+    "description": "打开支持案例 "
   },
   "orShareIdeas": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "或分享您的想法。",
+    "description": "或分享您的想法。"
   },
   "orgAdministrator": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "组织。行政人员",
+    "description": "组织。行政人员"
   },
   "personalAccount": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "个人账户",
+    "description": "个人账户"
   },
   "problemProcessingRequest": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "处理请求时出现问题。尝试重新加载页面。如果问题仍然存在，请联系",
+    "description": "处理请求时出现问题。尝试重新加载页面。如果问题仍然存在，请联系"
   },
   "quickStarts": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "快速启动",
+    "description": "快速启动"
   },
   "redHatSupport": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "红帽支持",
+    "description": "红帽支持"
   },
   "reportBug": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "报告错误",
+    "description": "报告错误"
   },
   "researchOpportunities": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "是的，我想了解研究机会",
+    "description": "是的，我想了解研究机会"
   },
   "returnToHomepage": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "返回首页",
+    "description": "返回首页"
   },
   "searchAccount": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "搜索帐户",
+    "description": "搜索帐户"
   },
   "segmentError": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "上下文在其提供者之外使用！",
+    "description": "上下文在其提供者之外使用！"
   },
   "selectTagsOrSIDs": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "选择一个或多个标签/SAP ID (SID)",
+    "description": "选择一个或多个标签/SAP ID (SID)"
   },
   "shareFeedback": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "分享反馈",
+    "description": "分享反馈"
   },
   "shareYourFeedback": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "与我们分享您的反馈！",
+    "description": "与我们分享您的反馈！"
   },
   "showMore": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "显示更多",
+    "description": "显示更多"
   },
   "somethingWentWrong": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "出问题了",
+    "description": "出问题了"
   },
   "statusPage": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "状态页面",
+    "description": "状态页面"
   },
   "stopUsing": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "停止使用",
+    "description": "停止使用"
   },
   "submitFeedback": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "提交反馈",
+    "description": "提交反馈"
   },
   "submitOnlyInStageProd": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "提交反馈仅适用于产品和阶段",
+    "description": "提交反馈仅适用于产品和阶段"
   },
   "supportOptions": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "支持选项",
+    "description": "支持选项"
   },
   "tagSources": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "标签来源",
+    "description": "标签来源"
   },
   "tagsFilter": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "标签过滤器",
+    "description": "标签过滤器"
   },
   "tellAboutExperience": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "告诉我们你的经历",
+    "description": "告诉我们你的经历"
   },
   "thankYouForFeedback": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "谢谢，我们感谢您的反馈。",
+    "description": "谢谢，我们感谢您的反馈。"
   },
   "thereWillBeACatalgPage": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "{bundle} bundle 会有一个目录页面",
+    "description": "{bundle} bundle 会有一个目录页面"
   },
   "tryChangingSearch": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "此筛选条件不匹配任何应用程序或服务。尝试更改输入过滤器。",
+    "description": "此筛选条件不匹配任何应用程序或服务。尝试更改输入过滤器。"
   },
   "tryThisFeatureInBeta": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "在 cloud.redhat.com/beta 上的 Beta 环境中试用此功能。Beta 环境允许您在活跃的开发空间中与新功能进行交互。由于 Beta 预发布软件仍在开发中，您可能会遇到可用性、稳定性、数据或性能方面的错误或缺陷。",
+    "description": "在 cloud.redhat.com/beta 上的 Beta 环境中试用此功能。Beta 环境允许您在活跃的开发空间中与新功能进行交互。由于 Beta 预发布软件仍在开发中，您可能会遇到可用性、稳定性、数据或性能方面的错误或缺陷。"
   },
   "tryUsingDifferentAccount": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "尝试使用不同的帐户",
+    "description": "尝试使用不同的帐户"
   },
   "unableToLoadQuickstartsContent": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "无法加载快速入门内容。",
+    "description": "无法加载快速入门内容。"
   },
   "use": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "利用",
+    "description": "利用"
   },
   "useAccountNumber": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "联系 Red Hat 寻求支持时使用此号码。如果您没有任何有效的订阅，您将没有帐号。",
+    "description": "联系 Red Hat 寻求支持时使用此号码。如果您没有任何有效的订阅，您将没有帐号。"
   },
   "useFeatureInBeta": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "在测试版中使用功能",
+    "description": "在测试版中使用功能"
   },
   "userPreferences": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "用户偏好",
+    "description": "用户偏好"
   },
   "username": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "用户名：",
+    "description": "用户名："
   },
   "value": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "价值",
+    "description": "价值"
   },
   "viewAsCustomer": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "您现在正在以客户的身份查看 console.redhat.com，并将与真实的客户数据进行交互。",
+    "description": "您现在正在以客户的身份查看 console.redhat.com，并将与真实的客户数据进行交互。"
   },
   "viewChanged": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "视图已更改",
+    "description": "视图已更改"
   },
   "viewRequest": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "查看请求",
+    "description": "查看请求"
   },
   "viewingAsAccount": {
-    "defaultMessage": "",
-    "description": ""
+    "defaultMessage": "以帐户 {selectedAccountNumber} 的身份查看",
+    "description": "以帐户 {selectedAccountNumber} 的身份查看"
   }
 }
