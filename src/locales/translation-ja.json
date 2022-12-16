@@ -1,7 +1,7 @@
 {
   "SIDsFilter": {
-    "defaultMessage": "SID フィルター updated on memsource 4th time",
-    "description": "SID フィルター updated on memsource 4th time"
+    "defaultMessage": "SID フィルター",
+    "description": "SID フィルター"
   },
   "accessRestricted": {
     "defaultMessage": "このページへのアクセスは、承認されたアカウントのユーザーからのサードパーティのIDPトークン用に予約されています。",
