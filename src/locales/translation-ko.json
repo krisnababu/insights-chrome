@@ -1,354 +1,354 @@
 {
   "SIDsFilter": {
-    "defaultMessage": "시드 필터",
-    "description": "시드 필터"
+    "defaultMessage": "",
+    "description": ""
   },
   "accessRestricted": {
-    "defaultMessage": "이 페이지에 대한 액세스는 승인된 계정의 사용자가 제공하는 타사 IDP 토큰용으로 예약되어 있습니다.",
-    "description": "이 페이지에 대한 액세스는 승인된 계정의 사용자가 제공하는 타사 IDP 토큰용으로 예약되어 있습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "accountNumber": {
-    "defaultMessage": "계좌 번호:",
-    "description": "계좌 번호:"
+    "defaultMessage": "",
+    "description": ""
   },
   "activationDescription": {
-    "defaultMessage": "Red Hat에서 영업일 기준 1일 이내에 연락하여 서브스크립션 혜택이 활성화될 준비가 되었는지 확인합니다.",
-    "description": "Red Hat에서 영업일 기준 1일 이내에 연락하여 서브스크립션 혜택이 활성화될 준비가 되었는지 확인합니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "activationTitle": {
-    "defaultMessage": "활성화 요청을 제출해 주셔서 감사합니다.",
-    "description": "활성화 요청을 제출해 주셔서 감사합니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "afterBetaUse": {
-    "defaultMessage": "베타에서 기능을 사용한 후에는 베타 릴리스를 수동으로 종료할 때까지 베타 환경에 남아 있습니다. 언제든지 상단 도구 모음에서 설정(톱니바퀴) 아이콘 또는 베타 아이콘을 클릭하여 베타 환경을 종료합니다.",
-    "description": "베타에서 기능을 사용한 후에는 베타 릴리스를 수동으로 종료할 때까지 베타 환경에 남아 있습니다. 언제든지 상단 도구 모음에서 설정(톱니바퀴) 아이콘 또는 베타 아이콘을 클릭하여 베타 환경을 종료합니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "apiDocumentation": {
-    "defaultMessage": "API 설명서",
-    "description": "API 설명서"
+    "defaultMessage": "",
+    "description": ""
   },
   "authFailure": {
-    "defaultMessage": "권한 부여 실패",
-    "description": "권한 부여 실패"
+    "defaultMessage": "",
+    "description": ""
   },
   "betaRelease": {
-    "defaultMessage": "베타 릴리스",
-    "description": "베타 릴리스"
+    "defaultMessage": "",
+    "description": ""
   },
   "cancel": {
-    "defaultMessage": "취소",
-    "description": "취소"
+    "defaultMessage": "",
+    "description": ""
   },
   "changesComing": {
-    "defaultMessage": "변경 사항은 7월 29일에 cloud.redhat.com 됩니다.",
-    "description": "변경 사항은 7월 29일에 cloud.redhat.com 됩니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "checkOur": {
-    "defaultMessage": "또는 우리를 확인하십시오",
-    "description": "또는 우리를 확인하십시오"
+    "defaultMessage": "",
+    "description": ""
   },
   "clearFilters": {
-    "defaultMessage": "필터 지우기",
-    "description": "필터 지우기"
+    "defaultMessage": "",
+    "description": ""
   },
   "close": {
-    "defaultMessage": "닫다",
-    "description": "닫다"
+    "defaultMessage": "",
+    "description": ""
   },
   "demoMode": {
-    "defaultMessage": "데모 모드",
-    "description": "데모 모드"
+    "defaultMessage": "",
+    "description": ""
   },
   "describeBug": {
-    "defaultMessage": "발생한 버그를 설명합니다. 긴급한 문제의 경우 대신 지원 사례를 여십시오.",
-    "description": "발생한 버그를 설명합니다. 긴급한 문제의 경우 대신 지원 사례를 여십시오."
+    "defaultMessage": "",
+    "description": ""
   },
   "email": {
-    "defaultMessage": "이메일",
-    "description": "이메일"
+    "defaultMessage": "",
+    "description": ""
   },
   "enterFeedback": {
-    "defaultMessage": "피드백 입력",
-    "description": "피드백 입력"
+    "defaultMessage": "",
+    "description": ""
   },
   "feedback": {
-    "defaultMessage": "피드백",
-    "description": "피드백"
+    "defaultMessage": "",
+    "description": ""
   },
   "feedbackSent": {
-    "defaultMessage": "피드백 전송",
-    "description": "피드백 전송"
+    "defaultMessage": "",
+    "description": ""
   },
   "filterResults": {
-    "defaultMessage": "결과 필터링",
-    "description": "결과 필터링"
+    "defaultMessage": "",
+    "description": ""
   },
   "filterSAPIDs": {
-    "defaultMessage": "SAP ID 필터링",
-    "description": "SAP ID 필터링"
+    "defaultMessage": "",
+    "description": ""
   },
   "filterTags": {
-    "defaultMessage": "필터 태그",
-    "description": "필터 태그"
+    "defaultMessage": "",
+    "description": ""
   },
   "findAppOrService": {
-    "defaultMessage": "앱 또는 서비스 찾기",
-    "description": "앱 또는 서비스 찾기"
+    "defaultMessage": "",
+    "description": ""
   },
   "getSupport": {
-    "defaultMessage": "Red Hat 지원팀의 도움을 받으십시오.",
-    "description": "Red Hat 지원팀의 도움을 받으십시오."
+    "defaultMessage": "",
+    "description": ""
   },
   "globalFilterNotApplicable": {
-    "defaultMessage": "전역 필터는 이 페이지에 적용되지 않습니다.",
-    "description": "전역 필터는 이 페이지에 적용되지 않습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "helpUsImproveHCC": {
-    "defaultMessage": "Red Hat 하이브리드 클라우드 콘솔을 개선할 수 있도록 도와주세요.",
-    "description": "Red Hat 하이브리드 클라우드 콘솔을 개선할 수 있도록 도와주세요."
+    "defaultMessage": "",
+    "description": ""
   },
   "home": {
-    "defaultMessage": "메시지",
-    "description": "집"
+    "defaultMessage": "",
+    "description": ""
   },
   "insightsRhelDocumentation": {
-    "defaultMessage": "RHEL 설명서에 대한 인사이트",
-    "description": "RHEL 설명서에 대한 인사이트"
+    "defaultMessage": "",
+    "description": ""
   },
   "internal": {
-    "defaultMessage": "내부",
-    "description": "내부"
+    "defaultMessage": "",
+    "description": ""
   },
   "internalUser": {
-    "defaultMessage": "내부 사용자",
-    "description": "내부 사용자"
+    "defaultMessage": "",
+    "description": ""
   },
   "knownOutages": {
-    "defaultMessage": "알려진 중단의 경우.",
-    "description": "알려진 중단의 경우."
+    "defaultMessage": "",
+    "description": ""
   },
   "learnAboutResearchOpportunities": {
-    "defaultMessage": "사용자 연구팀과 피드백을 공유할 수 있는 기회에 대해 알아보세요. 당사는 귀하의 개인 정보를 절대 공유하지 않으며 귀하는 언제든지 옵트아웃할 수 있습니다.",
-    "description": "사용자 연구팀과 피드백을 공유할 수 있는 기회에 대해 알아보세요. 당사는 귀하의 개인 정보를 절대 공유하지 않으며 귀하는 언제든지 옵트아웃할 수 있습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "learnHowTo": {
-    "defaultMessage": "응용 프로그램을 만들고, 가져오고, 실행하는 방법을 단계별 지침과 작업으로 알아봅니다.",
-    "description": "응용 프로그램을 만들고, 가져오고, 실행하는 방법을 단계별 지침과 작업으로 알아봅니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "learnMore": {
-    "defaultMessage": "블로그에서 자세히 알아보세요.",
-    "description": "블로그에서 자세히 알아보세요."
+    "defaultMessage": "",
+    "description": ""
   },
   "learnMoreABoutBeta": {
-    "defaultMessage": "베타 환경에 대해 자세히 알아보기",
-    "description": "베타 환경에 대해 자세히 알아보기"
+    "defaultMessage": "",
+    "description": ""
   },
   "loggedOut": {
-    "defaultMessage": "성공적으로 로그아웃했습니다.",
-    "description": "성공적으로 로그아웃했습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "login": {
-    "defaultMessage": "로그인",
-    "description": "로그인"
+    "defaultMessage": "",
+    "description": ""
   },
   "logout": {
-    "defaultMessage": "로그아웃",
-    "description": "로그아웃"
+    "defaultMessage": "",
+    "description": ""
   },
   "myProfile": {
-    "defaultMessage": "내 프로필",
-    "description": "내 프로필"
+    "defaultMessage": "",
+    "description": ""
   },
   "myUserAccess": {
-    "defaultMessage": "MyUserAccess",
-    "description": "내 사용자 액세스"
+    "defaultMessage": "",
+    "description": ""
   },
   "name": {
-    "defaultMessage": "이름",
-    "description": "이름"
+    "defaultMessage": "",
+    "description": ""
   },
   "newRequestReview": {
-    "defaultMessage": "검토가 필요한 새 액세스 요청이 있습니다.",
-    "description": "검토가 필요한 새 액세스 요청이 있습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "noInventoryPermissions": {
-    "defaultMessage": "이 작업을 수행하는 데 필요한 인벤토리 권한이 없습니다.",
-    "description": "이 작업을 수행하는 데 필요한 인벤토리 권한이 없습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "noLongerHaveAccess": {
-    "defaultMessage": "더 이상 {accountId} 계정에 액세스할 수 없습니다.",
-    "description": "더 이상 {accountId} 계정에 액세스할 수 없습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "noMatchingAppsFound": {
-    "defaultMessage": "일치하는 응용 프로그램 또는 서비스를 찾을 수 없습니다.",
-    "description": "일치하는 응용 프로그램 또는 서비스를 찾을 수 없습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "noResults": {
-    "defaultMessage": "결과 없음",
-    "description": "결과 없음"
+    "defaultMessage": "",
+    "description": ""
   },
   "openSupportCase": {
-    "defaultMessage": "지원 케이스 접수",
-    "description": "지원 케이스 접수 "
+    "defaultMessage": "",
+    "description": " "
   },
   "orShareIdeas": {
-    "defaultMessage": "또는 아이디어를 공유하십시오.",
-    "description": "또는 아이디어를 공유하십시오."
+    "defaultMessage": "",
+    "description": ""
   },
   "orgAdministrator": {
-    "defaultMessage": "조직. 관리자",
-    "description": "조직. 관리자"
+    "defaultMessage": "",
+    "description": ""
   },
   "personalAccount": {
-    "defaultMessage": "개인 계정",
-    "description": "개인 계정"
+    "defaultMessage": "",
+    "description": ""
   },
   "problemProcessingRequest": {
-    "defaultMessage": "요청을 처리하는 동안 문제가 발생했습니다. 페이지를 새로고침해 보세요. 문제가 지속되면",
-    "description": "요청을 처리하는 동안 문제가 발생했습니다. 페이지를 새로고침해 보세요. 문제가 지속되면"
+    "defaultMessage": "",
+    "description": ""
   },
   "quickStarts": {
-    "defaultMessage": "빠른 시작",
-    "description": "빠른 시작"
+    "defaultMessage": "",
+    "description": ""
   },
   "redHatSupport": {
-    "defaultMessage": "레드햇 지원",
-    "description": "레드햇 지원"
+    "defaultMessage": "",
+    "description": ""
   },
   "reportBug": {
-    "defaultMessage": "버그 신고",
-    "description": "버그 신고"
+    "defaultMessage": "",
+    "description": ""
   },
   "researchOpportunities": {
-    "defaultMessage": "예, 연구 기회에 대해 듣고 싶습니다.",
-    "description": "예, 연구 기회에 대해 듣고 싶습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "returnToHomepage": {
-    "defaultMessage": "홈 페이지로 돌아가기",
-    "description": "홈 페이지로 돌아가기"
+    "defaultMessage": "",
+    "description": ""
   },
   "searchAccount": {
-    "defaultMessage": "계정 검색",
-    "description": "계정 검색"
+    "defaultMessage": "",
+    "description": ""
   },
   "segmentError": {
-    "defaultMessage": "공급자 외부에서 사용되는 컨텍스트!",
-    "description": "공급자 외부에서 사용되는 컨텍스트!"
+    "defaultMessage": "",
+    "description": ""
   },
   "selectTagsOrSIDs": {
-    "defaultMessage": "하나 이상의 태그/SAP ID(SID) 선택",
-    "description": "하나 이상의 태그/SAP ID(SID) 선택"
+    "defaultMessage": "",
+    "description": ""
   },
   "shareFeedback": {
-    "defaultMessage": "피드백 공유",
-    "description": "피드백 공유"
+    "defaultMessage": "",
+    "description": ""
   },
   "shareYourFeedback": {
-    "defaultMessage": "피드백을 공유해 주세요!",
-    "description": "피드백을 공유해 주세요!"
+    "defaultMessage": "",
+    "description": ""
   },
   "showMore": {
-    "defaultMessage": "자세히보기",
-    "description": "자세히보기"
+    "defaultMessage": "",
+    "description": ""
   },
   "somethingWentWrong": {
-    "defaultMessage": "문제가 발생했습니다.",
-    "description": "문제가 발생했습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "statusPage": {
-    "defaultMessage": "상태 페이지",
-    "description": "상태 페이지"
+    "defaultMessage": "",
+    "description": ""
   },
   "stopUsing": {
-    "defaultMessage": "사용 중지",
-    "description": "사용 중지"
+    "defaultMessage": "",
+    "description": ""
   },
   "submitFeedback": {
-    "defaultMessage": "피드백 제출",
-    "description": "피드백 제출"
+    "defaultMessage": "",
+    "description": ""
   },
   "submitOnlyInStageProd": {
-    "defaultMessage": "피드백 제출은 제품 및 단계에서만 작동합니다.",
-    "description": "피드백 제출은 제품 및 단계에서만 작동합니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "supportOptions": {
-    "defaultMessage": "지원 옵션",
-    "description": "지원 옵션"
+    "defaultMessage": "",
+    "description": ""
   },
   "tagSources": {
-    "defaultMessage": "태그 소스",
-    "description": "태그 소스"
+    "defaultMessage": "",
+    "description": ""
   },
   "tagsFilter": {
-    "defaultMessage": "태그 필터",
-    "description": "태그 필터"
+    "defaultMessage": "",
+    "description": ""
   },
   "tellAboutExperience": {
-    "defaultMessage": "귀하의 경험에 대해 알려주십시오.",
-    "description": "귀하의 경험에 대해 알려주십시오."
+    "defaultMessage": "",
+    "description": ""
   },
   "thankYouForFeedback": {
-    "defaultMessage": "감사합니다, 우리는 당신의 의견에 감사드립니다.",
-    "description": "감사합니다, 우리는 당신의 의견에 감사드립니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "thereWillBeACatalgPage": {
-    "defaultMessage": "{번들} 번들에 대한 카탈로그 페이지가 있습니다.",
-    "description": "{번들} 번들에 대한 카탈로그 페이지가 있습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "tryChangingSearch": {
-    "defaultMessage": "이 필터 조건은 응용 프로그램 또는 서비스와 일치하지 않습니다. 입력 필터를 변경해 보세요.",
-    "description": "이 필터 조건은 응용 프로그램 또는 서비스와 일치하지 않습니다. 입력 필터를 변경해 보세요."
+    "defaultMessage": "",
+    "description": ""
   },
   "tryThisFeatureInBeta": {
-    "defaultMessage": "cloud.redhat.com/beta 의 베타 환경에서 이 기능을 사용해 보세요. 베타 환경을 사용하면 활성 개발 공간에서 새로운 기능과 상호 작용할 수 있습니다. 베타 시험판 소프트웨어는 아직 개발 중이므로 가용성, 안정성, 데이터 또는 성능에 버그나 결함이 발생할 수 있습니다.",
-    "description": "cloud.redhat.com/beta 의 베타 환경에서 이 기능을 사용해 보세요. 베타 환경을 사용하면 활성 개발 공간에서 새로운 기능과 상호 작용할 수 있습니다. 베타 시험판 소프트웨어는 아직 개발 중이므로 가용성, 안정성, 데이터 또는 성능에 버그나 결함이 발생할 수 있습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "tryUsingDifferentAccount": {
-    "defaultMessage": "다른 계정을 사용해 보세요",
-    "description": "다른 계정을 사용해 보세요"
+    "defaultMessage": "",
+    "description": ""
   },
   "unableToLoadQuickstartsContent": {
-    "defaultMessage": "빠른 시작 콘텐츠를 로드할 수 없습니다.",
-    "description": "빠른 시작 콘텐츠를 로드할 수 없습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "use": {
-    "defaultMessage": "쓰다",
-    "description": "쓰다"
+    "defaultMessage": "",
+    "description": ""
   },
   "useAccountNumber": {
-    "defaultMessage": "Red Hat에 지원을 요청할 때 이 번호를 사용하십시오. 활성 구독이 없으면 계정 번호가 없습니다.",
-    "description": "Red Hat에 지원을 요청할 때 이 번호를 사용하십시오. 활성 구독이 없으면 계정 번호가 없습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "useFeatureInBeta": {
-    "defaultMessage": "베타 버전에서 기능 사용",
-    "description": "베타 버전에서 기능 사용"
+    "defaultMessage": "",
+    "description": ""
   },
   "userPreferences": {
-    "defaultMessage": "사용자 기본 설정",
-    "description": "사용자 기본 설정"
+    "defaultMessage": "",
+    "description": ""
   },
   "username": {
-    "defaultMessage": "사용자 이름:",
-    "description": "사용자 이름:"
+    "defaultMessage": "",
+    "description": ""
   },
   "value": {
-    "defaultMessage": "값",
-    "description": "값"
+    "defaultMessage": "",
+    "description": ""
   },
   "viewAsCustomer": {
-    "defaultMessage": "이제 console.redhat.com 고객을 고객으로 보고 실제 고객 데이터와 상호 작용하게 됩니다.",
-    "description": "이제 console.redhat.com 고객을 고객으로 보고 실제 고객 데이터와 상호 작용하게 됩니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "viewChanged": {
-    "defaultMessage": "보기가 변경되었습니다.",
-    "description": "보기가 변경되었습니다."
+    "defaultMessage": "",
+    "description": ""
   },
   "viewRequest": {
-    "defaultMessage": "요청 보기",
-    "description": "요청 보기"
+    "defaultMessage": "",
+    "description": ""
   },
   "viewingAsAccount": {
-    "defaultMessage": "계정 {선택된 계정 번호}로 보기",
-    "description": "계정 {선택된 계정 번호}로 보기"
+    "defaultMessage": "",
+    "description": ""
   }
 }

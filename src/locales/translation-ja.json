@@ -1,354 +1,354 @@
 {
   "SIDsFilter": {
-    "defaultMessage": "SID フィルター",
-    "description": "SID フィルター"
+    "defaultMessage": "update on memsource",
+    "description": "update on memsource"
   },
   "accessRestricted": {
     "defaultMessage": "このページへのアクセスは、承認されたアカウントのユーザーからのサードパーティのIDPトークン用に予約されています。",
-    "description": "このページへのアクセスは、承認されたアカウントのユーザーからのサードパーティのIDPトークン用に予約されています。"
+    "description": ""
   },
   "accountNumber": {
-    "defaultMessage": "口座番号:",
-    "description": "口座番号:"
+    "defaultMessage": "",
+    "description": ""
   },
   "activationDescription": {
-    "defaultMessage": "Red Hat は 1 営業日以内に連絡し、サブスクリプション特典を有効にする準備が整ったことを確認します。",
-    "description": "Red Hat は 1 営業日以内に連絡し、サブスクリプション特典を有効にする準備が整ったことを確認します。"
+    "defaultMessage": "",
+    "description": ""
   },
   "activationTitle": {
-    "defaultMessage": "アクティベーションリクエストを送信していただきありがとうございます",
-    "description": "アクティベーションリクエストを送信していただきありがとうございます"
+    "defaultMessage": "",
+    "description": ""
   },
   "afterBetaUse": {
-    "defaultMessage": "ベータ版の機能を使用した後は、ベータ リリースを手動で終了するまでベータ環境のままになります。ベータ環境を離れるには、上部のツールバーの設定(歯車)アイコンまたはベータアイコンをクリックします。",
-    "description": "ベータ版の機能を使用した後は、ベータ リリースを手動で終了するまでベータ環境のままになります。ベータ環境を離れるには、上部のツールバーの設定(歯車)アイコンまたはベータアイコンをクリックします。"
+    "defaultMessage": "",
+    "description": ""
   },
   "apiDocumentation": {
-    "defaultMessage": "API ドキュメント",
-    "description": "API ドキュメント"
+    "defaultMessage": "",
+    "description": ""
   },
   "authFailure": {
-    "defaultMessage": "承認の失敗",
-    "description": "承認の失敗"
+    "defaultMessage": "",
+    "description": ""
   },
   "betaRelease": {
-    "defaultMessage": "ベータリリース",
-    "description": "ベータリリース"
+    "defaultMessage": "",
+    "description": ""
   },
   "cancel": {
-    "defaultMessage": "キャンセル",
-    "description": "キャンセル"
+    "defaultMessage": "",
+    "description": ""
   },
   "changesComing": {
-    "defaultMessage": "変更は7月29日に cloud.redhat.com されます。",
-    "description": "変更は7月29日に cloud.redhat.com されます。"
+    "defaultMessage": "",
+    "description": ""
   },
   "checkOur": {
-    "defaultMessage": "または私たちをチェックしてください",
-    "description": "または私たちをチェックしてください"
+    "defaultMessage": "",
+    "description": ""
   },
   "clearFilters": {
-    "defaultMessage": "フィルターをクリアする",
-    "description": "フィルターをクリアする"
+    "defaultMessage": "",
+    "description": ""
   },
   "close": {
-    "defaultMessage": "閉める",
-    "description": "閉める"
+    "defaultMessage": "",
+    "description": ""
   },
   "demoMode": {
-    "defaultMessage": "デモモード",
-    "description": "デモモード"
+    "defaultMessage": "",
+    "description": ""
   },
   "describeBug": {
-    "defaultMessage": "発生したバグについて説明してください。緊急の問題については、代わりにサポートケースをオープンしてください。",
-    "description": "発生したバグについて説明してください。緊急の問題については、代わりにサポートケースをオープンしてください。"
+    "defaultMessage": "",
+    "description": ""
   },
   "email": {
-    "defaultMessage": "電子メール",
-    "description": "電子メール"
+    "defaultMessage": "",
+    "description": ""
   },
   "enterFeedback": {
-    "defaultMessage": "フィードバックを入力",
-    "description": "フィードバックを入力"
+    "defaultMessage": "",
+    "description": ""
   },
   "feedback": {
-    "defaultMessage": "フィードバック",
-    "description": "フィードバック"
+    "defaultMessage": "",
+    "description": ""
   },
   "feedbackSent": {
-    "defaultMessage": "送信されたフィードバック",
-    "description": "送信されたフィードバック"
+    "defaultMessage": "",
+    "description": ""
   },
   "filterResults": {
-    "defaultMessage": "結果のフィルター処理",
-    "description": "結果のフィルター処理"
+    "defaultMessage": "",
+    "description": ""
   },
   "filterSAPIDs": {
-    "defaultMessage": "SAP ID をフィルター処理する",
-    "description": "SAP ID をフィルター処理する"
+    "defaultMessage": "",
+    "description": ""
   },
   "filterTags": {
-    "defaultMessage": "フィルタータグ",
-    "description": "フィルタータグ"
+    "defaultMessage": "",
+    "description": ""
   },
   "findAppOrService": {
-    "defaultMessage": "アプリまたはサービスを検索する",
-    "description": "アプリまたはサービスを検索する"
+    "defaultMessage": "",
+    "description": ""
   },
   "getSupport": {
-    "defaultMessage": "Red Hat サポートにお問い合わせください。",
-    "description": "Red Hat サポートにお問い合わせください。"
+    "defaultMessage": "",
+    "description": ""
   },
   "globalFilterNotApplicable": {
-    "defaultMessage": "グローバル フィルターはこのページには適用されません",
-    "description": "グローバル フィルターはこのページには適用されません"
+    "defaultMessage": "",
+    "description": ""
   },
   "helpUsImproveHCC": {
-    "defaultMessage": "Red Hat ハイブリッドクラウドコンソールの改善にご協力ください。",
-    "description": "Red Hat ハイブリッドクラウドコンソールの改善にご協力ください。"
+    "defaultMessage": "",
+    "description": ""
   },
   "home": {
-    "defaultMessage": "メッセージ",
-    "description": "家"
+    "defaultMessage": "",
+    "description": ""
   },
   "insightsRhelDocumentation": {
-    "defaultMessage": "RHEL ドキュメントのインサイト",
-    "description": "RHEL ドキュメントのインサイト"
+    "defaultMessage": "",
+    "description": ""
   },
   "internal": {
-    "defaultMessage": "国内",
-    "description": "国内"
+    "defaultMessage": "",
+    "description": ""
   },
   "internalUser": {
-    "defaultMessage": "内部ユーザー",
-    "description": "内部ユーザー"
+    "defaultMessage": "",
+    "description": ""
   },
   "knownOutages": {
-    "defaultMessage": "既知の停止の場合。",
-    "description": "既知の停止の場合。"
+    "defaultMessage": "",
+    "description": ""
   },
   "learnAboutResearchOpportunities": {
-    "defaultMessage": "ユーザー調査チームとフィードバックを共有する機会について学びます。私たちはあなたの個人情報を共有することはなく、あなたはいつでもオプトアウトすることができます。",
-    "description": "ユーザー調査チームとフィードバックを共有する機会について学びます。私たちはあなたの個人情報を共有することはなく、あなたはいつでもオプトアウトすることができます。"
+    "defaultMessage": "",
+    "description": ""
   },
   "learnHowTo": {
-    "defaultMessage": "アプリケーションを作成、インポート、実行する方法を、ステップバイステップの手順とタスクで学習します。",
-    "description": "アプリケーションを作成、インポート、実行する方法を、ステップバイステップの手順とタスクで学習します。"
+    "defaultMessage": "",
+    "description": ""
   },
   "learnMore": {
-    "defaultMessage": "詳しくはブログをご覧ください。",
-    "description": "詳しくはブログをご覧ください。"
+    "defaultMessage": "",
+    "description": ""
   },
   "learnMoreABoutBeta": {
-    "defaultMessage": "ベータ環境についてさらに詳しく",
-    "description": "ベータ環境についてさらに詳しく"
+    "defaultMessage": "",
+    "description": ""
   },
   "loggedOut": {
-    "defaultMessage": "正常にログアウトされました。",
-    "description": "正常にログアウトされました。"
+    "defaultMessage": "",
+    "description": ""
   },
   "login": {
-    "defaultMessage": "ログイン",
-    "description": "ログイン"
+    "defaultMessage": "",
+    "description": ""
   },
   "logout": {
-    "defaultMessage": "ログアウトする",
-    "description": "ログアウトする"
+    "defaultMessage": "",
+    "description": ""
   },
   "myProfile": {
-    "defaultMessage": "私のプロフィール",
-    "description": "私のプロフィール"
+    "defaultMessage": "",
+    "description": ""
   },
   "myUserAccess": {
-    "defaultMessage": "MyUserAccess",
-    "description": "マイ ユーザー アクセス"
+    "defaultMessage": "",
+    "description": ""
   },
   "name": {
-    "defaultMessage": "名前",
-    "description": "名前"
+    "defaultMessage": "",
+    "description": ""
   },
   "newRequestReview": {
-    "defaultMessage": "レビューが必要な新しいアクセス要求があります",
-    "description": "レビューが必要な新しいアクセス要求があります"
+    "defaultMessage": "",
+    "description": ""
   },
   "noInventoryPermissions": {
-    "defaultMessage": "この操作を実行するために必要なインベントリ権限がありません",
-    "description": "この操作を実行するために必要なインベントリ権限がありません"
+    "defaultMessage": "",
+    "description": ""
   },
   "noLongerHaveAccess": {
-    "defaultMessage": "アカウント {アカウント ID} にアクセスできなくなりました。",
-    "description": "アカウント {アカウント ID} にアクセスできなくなりました。"
+    "defaultMessage": "",
+    "description": ""
   },
   "noMatchingAppsFound": {
-    "defaultMessage": "一致するアプリケーションまたはサービスが見つかりません。",
-    "description": "一致するアプリケーションまたはサービスが見つかりません。"
+    "defaultMessage": "",
+    "description": ""
   },
   "noResults": {
-    "defaultMessage": "結果がありません",
-    "description": "結果がありません"
+    "defaultMessage": "",
+    "description": ""
   },
   "openSupportCase": {
-    "defaultMessage": "サポートケースを開く",
-    "description": "サポートケースを開く "
+    "defaultMessage": "",
+    "description": " "
   },
   "orShareIdeas": {
-    "defaultMessage": "またはあなたのアイデアを共有してください。",
-    "description": "またはあなたのアイデアを共有してください。"
+    "defaultMessage": "",
+    "description": ""
   },
   "orgAdministrator": {
-    "defaultMessage": "組織。管理者",
-    "description": "組織。管理者"
+    "defaultMessage": "",
+    "description": ""
   },
   "personalAccount": {
-    "defaultMessage": "個人アカウント",
-    "description": "個人アカウント"
+    "defaultMessage": "",
+    "description": ""
   },
   "problemProcessingRequest": {
-    "defaultMessage": "要求の処理中に問題が発生しました。ページを再読み込みしてみてください。問題が解決しない場合は、",
-    "description": "要求の処理中に問題が発生しました。ページを再読み込みしてみてください。問題が解決しない場合は、"
+    "defaultMessage": "",
+    "description": ""
   },
   "quickStarts": {
-    "defaultMessage": "クイックスタート",
-    "description": "クイックスタート"
+    "defaultMessage": "",
+    "description": ""
   },
   "redHatSupport": {
-    "defaultMessage": "Red Hat サポート",
-    "description": "Red Hat サポート"
+    "defaultMessage": "",
+    "description": ""
   },
   "reportBug": {
-    "defaultMessage": "バグを報告する",
-    "description": "バグを報告する"
+    "defaultMessage": "",
+    "description": ""
   },
   "researchOpportunities": {
-    "defaultMessage": "はい、研究の機会について聞きたいです",
-    "description": "はい、研究の機会について聞きたいです"
+    "defaultMessage": "",
+    "description": ""
   },
   "returnToHomepage": {
-    "defaultMessage": "ホームページに戻る",
-    "description": "ホームページに戻る"
+    "defaultMessage": "",
+    "description": ""
   },
   "searchAccount": {
-    "defaultMessage": "アカウントの検索",
-    "description": "アカウントの検索"
+    "defaultMessage": "",
+    "description": ""
   },
   "segmentError": {
-    "defaultMessage": "プロバイダーの外部で使用されるコンテキスト!",
-    "description": "プロバイダーの外部で使用されるコンテキスト!"
+    "defaultMessage": "",
+    "description": ""
   },
   "selectTagsOrSIDs": {
-    "defaultMessage": "1 つ以上のタグ/SAP ID (SID) を選択します。",
-    "description": "1 つ以上のタグ/SAP ID (SID) を選択します。"
+    "defaultMessage": "",
+    "description": ""
   },
   "shareFeedback": {
-    "defaultMessage": "フィードバックを共有する",
-    "description": "フィードバックを共有する"
+    "defaultMessage": "",
+    "description": ""
   },
   "shareYourFeedback": {
-    "defaultMessage": "私たちとあなたのフィードバックを共有してください!",
-    "description": "私たちとあなたのフィードバックを共有してください!"
+    "defaultMessage": "",
+    "description": ""
   },
   "showMore": {
-    "defaultMessage": "さらに表示",
-    "description": "さらに表示"
+    "defaultMessage": "",
+    "description": ""
   },
   "somethingWentWrong": {
-    "defaultMessage": "何らかのエラーが発生しました",
-    "description": "何らかのエラーが発生しました"
+    "defaultMessage": "",
+    "description": ""
   },
   "statusPage": {
-    "defaultMessage": "ステータス ページ",
-    "description": "ステータス ページ"
+    "defaultMessage": "",
+    "description": ""
   },
   "stopUsing": {
-    "defaultMessage": "使用を中止する",
-    "description": "使用を中止する"
+    "defaultMessage": "",
+    "description": ""
   },
   "submitFeedback": {
-    "defaultMessage": "フィードバックの送信",
-    "description": "フィードバックの送信"
+    "defaultMessage": "",
+    "description": ""
   },
   "submitOnlyInStageProd": {
-    "defaultMessage": "フィードバックの送信は、本番環境とステージでのみ機能します",
-    "description": "フィードバックの送信は、本番環境とステージでのみ機能します"
+    "defaultMessage": "",
+    "description": ""
   },
   "supportOptions": {
-    "defaultMessage": "サポート オプション",
-    "description": "サポート オプション"
+    "defaultMessage": "",
+    "description": ""
   },
   "tagSources": {
-    "defaultMessage": "タグソース",
-    "description": "タグソース"
+    "defaultMessage": "",
+    "description": ""
   },
   "tagsFilter": {
-    "defaultMessage": "タグフィルター",
-    "description": "タグフィルター"
+    "defaultMessage": "",
+    "description": ""
   },
   "tellAboutExperience": {
-    "defaultMessage": "あなたの経験について教えてください",
-    "description": "あなたの経験について教えてください"
+    "defaultMessage": "",
+    "description": ""
   },
   "thankYouForFeedback": {
-    "defaultMessage": "ありがとう、私たちはあなたのフィードバックに感謝します。",
-    "description": "ありがとう、私たちはあなたのフィードバックに感謝します。"
+    "defaultMessage": "",
+    "description": ""
   },
   "thereWillBeACatalgPage": {
-    "defaultMessage": "{バンドル}バンドルのカタログページがあります",
-    "description": "{バンドル}バンドルのカタログページがあります"
+    "defaultMessage": "",
+    "description": ""
   },
   "tryChangingSearch": {
-    "defaultMessage": "このフィルター条件は、アプリケーションまたはサービスと一致しません。入力フィルターを変更してみてください。",
-    "description": "このフィルター条件は、アプリケーションまたはサービスと一致しません。入力フィルターを変更してみてください。"
+    "defaultMessage": "",
+    "description": ""
   },
   "tryThisFeatureInBeta": {
-    "defaultMessage": "cloud.redhat.com/beta ベータ版でこの機能をお試しください。ベータ環境では、アクティブな開発スペースで新機能と対話できます。ベータ版のプレリリース ソフトウェアはまだ開発中であるため、可用性、安定性、データ、またはパフォーマンスにバグや欠陥が発生する可能性があります。",
-    "description": "cloud.redhat.com/beta ベータ版でこの機能をお試しください。ベータ環境では、アクティブな開発スペースで新機能と対話できます。ベータ版のプレリリース ソフトウェアはまだ開発中であるため、可用性、安定性、データ、またはパフォーマンスにバグや欠陥が発生する可能性があります。"
+    "defaultMessage": "",
+    "description": ""
   },
   "tryUsingDifferentAccount": {
-    "defaultMessage": "別のアカウントを使用してみてください",
-    "description": "別のアカウントを使用してみてください"
+    "defaultMessage": "",
+    "description": ""
   },
   "unableToLoadQuickstartsContent": {
-    "defaultMessage": "クイックスタートのコンテンツを読み込めません。",
-    "description": "クイックスタートのコンテンツを読み込めません。"
+    "defaultMessage": "",
+    "description": ""
   },
   "use": {
-    "defaultMessage": "使う",
-    "description": "使う"
+    "defaultMessage": "",
+    "description": ""
   },
   "useAccountNumber": {
-    "defaultMessage": "この番号は、Red Hat にサポートを依頼する際に使用してください。アクティブなサブスクリプションがない場合は、アカウント番号はありません。",
-    "description": "この番号は、Red Hat にサポートを依頼する際に使用してください。アクティブなサブスクリプションがない場合は、アカウント番号はありません。"
+    "defaultMessage": "",
+    "description": ""
   },
   "useFeatureInBeta": {
-    "defaultMessage": "ベータ版で機能を使用する",
-    "description": "ベータ版で機能を使用する"
+    "defaultMessage": "",
+    "description": ""
   },
   "userPreferences": {
-    "defaultMessage": "ユーザー設定",
-    "description": "ユーザー設定"
+    "defaultMessage": "",
+    "description": ""
   },
   "username": {
-    "defaultMessage": "ユーザー名:",
-    "description": "ユーザー名:"
+    "defaultMessage": "",
+    "description": ""
   },
   "value": {
-    "defaultMessage": "価値",
-    "description": "価値"
+    "defaultMessage": "",
+    "description": ""
   },
   "viewAsCustomer": {
-    "defaultMessage": "これで、console.redhat.com を顧客として表示し、実際の顧客データと対話するようになります。",
-    "description": "これで、console.redhat.com を顧客として表示し、実際の顧客データと対話するようになります。"
+    "defaultMessage": "",
+    "description": ""
   },
   "viewChanged": {
-    "defaultMessage": "ビューが変更されました",
-    "description": "ビューが変更されました"
+    "defaultMessage": "",
+    "description": ""
   },
   "viewRequest": {
-    "defaultMessage": "要求の表示",
-    "description": "要求の表示"
+    "defaultMessage": "",
+    "description": ""
   },
   "viewingAsAccount": {
-    "defaultMessage": "アカウントとしての表示 {選択したアカウント番号}",
-    "description": "アカウントとしての表示 {選択したアカウント番号}"
+    "defaultMessage": "",
+    "description": ""
   }
 }
