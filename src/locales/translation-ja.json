@@ -1,7 +1,7 @@
 {
   "SIDsFilter": {
-    "defaultMessage": "SID フィルター",
-    "description": "SID フィルター"
+    "defaultMessage": "SID フィルター from github",
+    "description": "SID フィルター from github"
   },
   "accessRestricted": {
     "defaultMessage": "このページへのアクセスは、承認されたアカウントのユーザーからのサードパーティのIDPトークン用に予約されています。",
