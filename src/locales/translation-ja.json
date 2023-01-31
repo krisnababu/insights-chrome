@@ -1,7 +1,7 @@
 {
   "SIDsFilter": {
-    "defaultMessage": "update on memsource",
-    "description": "update on memsource"
+    "defaultMessage": "from github",
+    "description": "from github"
   },
   "accessRestricted": {
     "defaultMessage": "このページへのアクセスは、承認されたアカウントのユーザーからのサードパーティのIDPトークン用に予約されています。",
