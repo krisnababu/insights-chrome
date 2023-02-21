@@ -1,7 +1,7 @@
 {
   "SIDsFilter": {
-    "defaultMessage": "시드 필터",
-    "description": "시드 필터"
+    "defaultMessage": "시드 필터 from memsource insights-chrome",
+    "description": "시드 필터 from memsource insights-chrome"
   },
   "accessRestricted": {
     "defaultMessage": "이 페이지에 대한 액세스는 승인된 계정의 사용자가 제공하는 타사 IDP 토큰용으로 예약되어 있습니다.",
